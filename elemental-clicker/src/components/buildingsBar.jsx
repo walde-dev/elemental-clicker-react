@@ -11,15 +11,15 @@ import {
 
 const styles = (theme => ({
     ShopDrawer: {
-        color: "white",
-        backgroundColor: "#191970",
-        borderLeft: "1vh solid white",
-        padding: "20px",
-        minHeight: "100vh"
+        color: 'white',
+        backgroundColor: '#191970',
+        borderLeft: '1vh solid white',
+        padding: '20px',
+        minHeight: '100vh'
     },
     Building: {
-        border: "5px solid white",
-        padding: "20px"
+        border: '5px solid white',
+        padding: '20px'
     }
 }));
 
