@@ -1,0 +1,58 @@
+.userinterface{
+    text-align: center;
+    color: #2411AD;
+  }
+  
+  .userinterface-header {
+    background-color: #191970;
+    border-bottom: 1vh solid white;
+    min-height: 8vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(28px + 2vmin);
+    color: white;
+    user-select: none;
+  }
+
+  .userinterface-body {
+    background-color: #2411AD;
+    min-height: 84vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    user-select: none;
+  }
+
+  .userinterface-footer {
+    background-color: #191970;
+    border-top: 1vh solid white;
+    min-height: 8vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    font-size: calc(28px + 2vmin);
+    color: white;
+    position: absolute;
+    bottom: 0;
+    user-select: none;
+  }
+
+  .userinterface-shopbar {
+    background-color: red;
+    width: 30%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    color: white;
+    user-select: none;
+  }
+  
+
+  
