@@ -5,8 +5,7 @@ import {
 } from '@material-ui/core/styles';
 
 import {
-    ListItemText, ListItemIcon, ListItem, Divider, Typography,
-    List, Toolbar, AppBar, CssBaseline, Drawer, Grid
+    Drawer, Grid,
 } from '@material-ui/core';
 
 
